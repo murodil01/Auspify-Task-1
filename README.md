@@ -6,7 +6,7 @@ A modern, high-performance, and fully responsive landing page built with semanti
 
 ## 🚀 Live Demo & Links
 
-- **Live Demo (Vercel):** [https://your-project-name.vercel.app](https://your-project-name.vercel.app) *(Replace with your Vercel link)*
+- **Live Demo (Vercel):** [https://your-project-name.vercel.app](https://auspify-task-1.vercel.app/) *(Replace with your Vercel link)*
 - **GitHub Repository:** [https://github.com/your-username/Auspify-Task-1](https://github.com/murodil01/Auspify-Task-1.git)
 
 ---
